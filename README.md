@@ -1,1 +1,1 @@
-# cambridge-dictionary-to-anki-
+# Cambridge dictionary to Anki deck (Chrome extension)
